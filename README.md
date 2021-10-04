@@ -10,4 +10,6 @@ Furthermore, if problems araise, public administration can be directly contacted
 
 :arrow_right:   [Full project description here](src/paper.pdf)
 
+To see the mobile application code, please refer to my collegue [Jacopo Braccio](https://github.com/jacopobr/find-and-play/tree/master/mobile%20application)'s repository.
+
 [![Find&Play](https://res.cloudinary.com/marcomontalbano/image/upload/v1622287392/video_to_markdown/images/youtube--y2aaxCZ_YPM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/y2aaxCZ_YPM "Find&Play")
